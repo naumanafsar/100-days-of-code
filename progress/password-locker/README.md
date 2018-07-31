@@ -1,6 +1,6 @@
 # An Insecure Password Locker
 
-##Description
+## Description
 As the name says, it's an insecure Password locker, you store your accounts and password in a python dictionary in pw.py file. Whenever you need your password for an account you just simply run the program and it copy your password into your clipboard. It helps a lot if you have different passwords for different accounts and your passwords are lengthy.
 
 ## Pre-reqs
