@@ -13,4 +13,4 @@
 
 **Thoughts:** It's been a while since i coded in python, just to keep things going i started coding in python again. This was just a small project.
 
-**Link to work:** [Password Locker](https://github.com/naumanafsar/100-days-of-code/tree/master/progress/day1)
+**Link to work:** [Password Locker](https://github.com/naumanafsar/100-days-of-code/tree/master/progress/password-locker)
