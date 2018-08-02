@@ -15,9 +15,9 @@
 **Link to work:**
 [Password Locker](https://github.com/naumanafsar/100-days-of-code/tree/master/progress/password-locker)
 
---------------------------
-### Day 1: August 01, 2018
+---------------------------
+## Day 1: August 01, 2018
 
-**Todays's Progress**
-Read the chapter 6 of "Automate The Boring Stuff with Python", i practiced and learned some advance RegEx in Python.
---------------------------
+**Today's Progress**: Today i read the chapter 6 of "Automate The Boring Stuff with Python" and learned about some advance Regular Expression in Python and i practiced on it!
+
+-----------------------------
