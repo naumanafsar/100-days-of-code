@@ -1,12 +1,13 @@
 # 100 Days Of Code - Log
-
+<a name="contents"></a>
 -------------------------
 | Days | Progress | Days | Progress |
-|------|----------|------|----------|
-| Day 1| Created a Password Locker app | Day 2 | Regular Expression in Python |
+|:------:|:----------:|:------:|:----------:|
+| [Day 1](#day-1) **31/07/18** | Created a Password Locker app | [Day 2](#day2) **01/08/18** | Regular Expression in Python |
 
 ----------------------------
-### Day 0: July 31, 2018
+<a name="day-1"></a>
+### Day 1: July 31, 2018
 
 **Today's Progress**: I created a small python program which let you copy your accounts password to clipboard easily.
 
