@@ -3,7 +3,7 @@
 -------------------------
 |Day|Progress|Day|Progress|
 |:---:|:--------:|:---:|:--------:|
-|[Day 1](#day-1) **31/07/18**|Created a Password Locker app|[Day 2](#day-2) **01/08/18**|Regular Expression in Python|
+|[Day 1](#day-1) **31/07/18**|Created a Password Locker app using Python libray pyperclip|[Day 2](#day-2) **01/08/18**|Regular Expression in Python, and some advance RegEx|
 
 ----------------------------
 <a name="day-1"></a>
