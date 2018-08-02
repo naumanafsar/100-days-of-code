@@ -17,6 +17,7 @@
 
 --------------------------
 ### Day 1: August 01, 2018
+
 **Todays's Progress**
 Read the chapter 6 of "Automate The Boring Stuff with Python", i practiced and learned some advance RegEx in Python.
 --------------------------
